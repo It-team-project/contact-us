@@ -186,17 +186,19 @@ section i{
         margin-top: 0vh;
         margin-left: 0vh;
     }
-    .media{
-        position: absolute;
-        top: 190vh;
-        right: 30px;
+  .media{
+
+        position:relative;
+        display:flow-root;
+       right:10px;
+
 
     }
     .media li{
-    margin: 10px;
-    }
-    section i{
-        margin-left:40%;
+        margin: 20px 30px;
+        background-color: black;}
+
+   
 
 }
 @media screen and (max-width: 1300px){
