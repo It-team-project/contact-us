@@ -192,6 +192,11 @@ section i{
         right: 30px;
 
     }
+    .media li{
+    margin: 30px 40px;
+    }
+    section i{
+        margin-left:20%;
 
 }
 @media screen and (max-width: 1300px){
